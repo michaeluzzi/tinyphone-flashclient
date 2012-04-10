@@ -1,0 +1,1 @@
+﻿package com.itpredial.tinyphone.client{	public final class EventType 	{ 		public static const NEW_CALLER:String = "new_call"; 		public static const AUDIO_LEVEL:String = "audio_level";		public static const KEYPRESS:String = "keypress"; 		public static const HANGUP:String = "hangup";	}}
